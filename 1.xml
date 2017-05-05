@@ -23,17 +23,5 @@
         <departure>22:00</departure>
         <from>London</from>
         <to>Kiev</to>
-    </train>
-    <train id="3">
-        <date>11.11.2017</date>
-        <departure>11:00</departure>
-        <from>Kiev</from>
-        <to>Moscow</to>
-    </train>
-    <train id="4">
-        <date>12.11.2017</date>
-        <departure>22:00</departure>
-        <from>London</from>
-        <to>Kiev</to>
-    </train>
+    </train>  
 </trains>
